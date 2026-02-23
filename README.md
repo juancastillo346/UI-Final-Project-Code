@@ -1,7 +1,10 @@
 # React Firebase App
 
-A starter React application with Firebase integration.
+![C3F647EA-3653-4A9B-A8BD-C57E19DD8775_1_206_a](https://github.com/user-attachments/assets/3e66cb42-7b92-466e-ba32-15b86f2d78ad)
 
+
+
+Final Project for my UI Class where I implemented messaging using a firebase server
 ## Setup
 
 1. Install dependencies:
